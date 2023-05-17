@@ -12,7 +12,7 @@ void DrawEngine::DrawMenu()
         cout << "                                 ||     Êðåñòèêè Íîëèêè    ||" << endl;
         cout << "                                 +==========================+" << endl;
 
-        cout << "                                         ¶¶¶8¶¶                         " << endl;
+        cout << "                                                                " << endl;
         cout << "                                   ¶¶¶¶¶¶¶¶¶¶¶¶                         " << endl;
         cout << "                                   ¶¶¶¶8¶¶¶¶¶¶¶                         " << endl;
         cout << "                                            ¶¶                          " << endl;
