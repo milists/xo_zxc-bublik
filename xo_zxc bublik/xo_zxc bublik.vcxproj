@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrangement.cpp" />
+    <ClCompile Include="CheckWin.cpp" />
+    <ClCompile Include="launcher.cpp" />
+    <ClCompile Include="visual.cpp" />
     <ClCompile Include="xo_zxc bublik.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="arrangement.h" />
+    <ClInclude Include="CheckWin.h" />
+    <ClInclude Include="launcher.h" />
+    <ClInclude Include="visual.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
