@@ -1,19 +1,18 @@
-#include "DrawEngine.h" 
-#include <iostream> 
-#include <string> 
-using namespace std;
+ï»¿#include "DrawEngine.h"
+#include "InputEngine.h"
+
+#include <iostream>
+#include <string>
 
 
 void DrawMenu() {
 
     setlocale(LC_ALL, "ru");
     cout << "                                 +==========================+" << endl;
-    cout << "                                 ||    êðåñòèêè íîëèêè     ||" << endl;
+    cout << "                                 ||    ÐºÑ€ÐµÑÑ‚Ð¸ÐºÐ¸ Ð½Ð¾Ð»Ð¸ÐºÐ¸     ||" << endl;
     cout << "                                 +==========================+" << endl;
 
-
-
-    cout << "                                        by zxc bublik" << endl;
+    cout <<"                                        by zxc bublik"<< endl;
     cout << "                                                             /;    ;\\" << endl;
     cout << "                                                         __  \\\\____//" << endl;
     cout << "                                                        /{_\_/   `'\____" << endl;
@@ -30,16 +29,18 @@ void DrawMenu() {
     cout << "                      ;;;; : :   ;                  :  ;  ; :              " << endl;
     cout << "                      `'`' / :  :                   :  :  : :" << endl;
 
-
+ 
     cout << endl;
-    cout << endl;
+        cout << endl;
 
 
 
 
     cout << "                                 +========================+" << endl;
-    cout << "                                 ||     âûáåðè ðåæèì     ||" << endl;
+    cout << "                                 ||     Ð²Ñ‹Ð±ÐµÑ€Ð¸ Ñ€ÐµÐ¶Ð¸Ð¼     ||" << endl;
     cout << "                                 ||    1-PVE     2-PVP   ||" << endl;
+    cout << "                                 ||    3-EVP     4-EVE   ||  " << endl;
     cout << "                                 +========================+" << endl;
 
+    
 }
