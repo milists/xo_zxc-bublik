@@ -1,2 +1,24 @@
-﻿  last_version.cpp
-  last_version.vcxproj -> C:\Users\user\Desktop\Новая папка\last_version\x64\Debug\last_version.exe
+﻿  DrawEngine.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(20,13): warning C4129: _: неизвестная escape-последовательность
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(21,13): warning C4129: _: неизвестная escape-последовательность
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(23,13): warning C4129: _: неизвестная escape-последовательность
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(24,13): warning C4129: _: неизвестная escape-последовательность
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(27,13): warning C4129: : неизвестная escape-последовательность
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\DrawEngine.cpp(28,13): warning C4129: : неизвестная escape-последовательность
+  EVE.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\EVE.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\EVE.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\EVE.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  EVP.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\EVP.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\EVP.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  last_version.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\last_version.cpp(15,2): error C3861: DrawMenu: идентификатор не найден
+  PVE.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\PVE.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\PVE.cpp(59,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PVP.cpp
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\PVP.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\PVP.cpp(99): warning C4715: a2: значение возвращается не при всех путях выполнения
+C:\Users\loshk\OneDrive\Рабочий стол\krestiki\xo_zxc-bublik\last_version\PVP.cpp(63): warning C4715: a1: значение возвращается не при всех путях выполнения
