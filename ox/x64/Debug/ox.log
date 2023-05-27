@@ -1,0 +1,5 @@
+﻿  PVP.cpp
+D:\Академия ТОР ДЗ\ДЗ Visual studio\ox\ox\PVP.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Академия ТОР ДЗ\ДЗ Visual studio\ox\ox\PVP.cpp(151): warning C4715: a2: значение возвращается не при всех путях выполнения
+D:\Академия ТОР ДЗ\ДЗ Visual studio\ox\ox\PVP.cpp(90): warning C4715: a1: значение возвращается не при всех путях выполнения
+  ox.vcxproj -> D:\Академия ТОР ДЗ\ДЗ Visual studio\ox\x64\Debug\ox.exe
